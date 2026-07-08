@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1,CHANNEL1
+http://103.163.117.83:8063/ch1/index.m3u8
+
+
+#EXTINF:-1,CHANNEL1
+http://103.163.117.83:8063/ch2/index.m3u8
+
+#EXTINF:-1,CHANNEL1
+http://103.163.117.83:8063/ch3/index.m3u8
+
+#EXTINF:-1,CHANNEL1
+http://103.163.117.83:8063/ch4/index.m3u8
+
+#EXTINF:-1,CHANNEL1
+http://103.163.117.83:8063/ch5/index.m3u8
