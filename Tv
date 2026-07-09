@@ -1,9 +1,15 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-id="00018" tvg-logo="https://linkchur.top/amrbd/logos/ch_18.png" group-title="INDIA BANGLA",STAR JALSHA HD
+http://10.20.30.40:8088/302/index.m3u8
 #EXTINF:-1 tvg-id="0876" tvg-logo="https://linkchur.top/amrbd/logos/ch_14.png" group-title="INDIA BANGLA",ZEE BANGLA HD
 http://27.124.71.27/Zee_Bangla/index.m3u8
-
+#EXTINF:-1 tvg-id="2yyuw" tvg-logo="https://linkchur.top/amrbd/logos/ch_12.png" group-title="INDIA BANGLA",COLORS BANGLA HD
+http://10.20.30.40:8088/304/index.m3u8
+#EXTINF:-1 tvg-id="00018" tvg-logo="https://linkchur.top/amrbd/logos/ch_18.png" group-title="INDIA BANGLA",STAR JALSHA HD
+http://10.20.30.40:8088/303/index.m3u8
+#EXTINF:-1 tvg-id="Oyyui" tvg-logo="https://linkchur.top/amrbd/logos/ch_44.png" group-title="INDIA BANGLA",SONY AATH
+http://10.20.30.40:8088/306/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="Somoy TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" tvg-chno="2" group-title="News",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="Jamuna TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" tvg-chno="3" group-title="News",Jamuna TV
