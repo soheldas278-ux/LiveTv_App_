@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_103.png",SSC 5 HD
+http://203.18.159.115/SSCSPORTS5HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="00018" tvg-logo="https://linkchur.top/amrbd/logos/ch_18.png" group-title="INDIA BANGLA",STAR JALSHA HD
 http://circleplaylists.geoclaster.xyz:8082/Star_jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="0876" tvg-logo="https://linkchur.top/amrbd/logos/ch_14.png" group-title="INDIA BANGLA",ZEE BANGLA HD
