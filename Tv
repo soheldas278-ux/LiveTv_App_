@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_2.png",STAR SPORTS 1 FHD
+https://flussonic.defineatoz.com/Enterr10bangla/video.m3u8
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_3.png",STAR SPORTS 2 FHD
+https://flussonic.defineatoz.com/Starsports2/video.m3u8
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_31.png",STAR SPORTS 3 FHD
+https://flussonic.defineatoz.com/BeinSports1/video.m3u8
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_28.png",STAR SPORTS SELECT 1 FHD
+https://flussonic.defineatoz.com/starsportsselect1/video.m3u8
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_16.png",STAR SPORTS SELECT 2 FHD
+https://flussonic.defineatoz.com/starsportsselect2sw/video.m3u8
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_74.png",SONY SPORTS TEN 1 HD
+https://flussonic.defineatoz.com/SonySports1/video.m3u8
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_29.png",SONY SPORTS TEN 2 HD
+http://203.18.159.115/SONYSPORTS2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_30.png",SONY SPORTS TEN 3
+https://flussonic.defineatoz.com/SonySports3HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_72.png",SONY SPORTS TEN 4
+https://flussonic.defineatoz.com/SonySports5L3/video.m3u8
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_101.png",SONY SPORTS TEN 5 HD
+https://flussonic.defineatoz.com/SonySports5L3/video.m3u8
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_54.png",NAGORIK TV
+https://flussonic.defineatoz.com/backup/video.m3u8
 #EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_103.png",SSC 5 HD
 http://203.18.159.115/SSCSPORTS5HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="00018" tvg-logo="https://linkchur.top/amrbd/logos/ch_18.png" group-title="INDIA BANGLA",STAR JALSHA HD
@@ -10,7 +32,7 @@ http://circleplaylists.geoclaster.xyz:8082/Colors-Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="00018" tvg-logo="https://linkchur.top/amrbd/logos/ch_18.png" group-title="INDIA BANGLA",STAR JALSHA HD
 http://circleplaylists.geoclaster.xyz:8082/JALSHA-MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Oyyui" tvg-logo="https://linkchur.top/amrbd/logos/ch_44.png" group-title="INDIA BANGLA",SONY AATH
-http://circleplaylists.geoclaster.xyz:8082/Sony-Aath/index.m3u8
+https://flussonic.defineatoz.com/sony8/video.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="Somoy TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" tvg-chno="2" group-title="News",Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="Jamuna TV" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" tvg-chno="3" group-title="News",Jamuna TV
