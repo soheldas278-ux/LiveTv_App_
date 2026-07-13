@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_2.png",STAR SPORTS 1 FHD
-https://flussonic.defineatoz.com/Enterr10bangla/video.m3u8
+https://s1.itcnbd.live/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_3.png",STAR SPORTS 2 FHD
-https://flussonic.defineatoz.com/Starsports2/video.m3u8
+https://s1.itcnbd.live/unite-8-sports-2-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_31.png",STAR SPORTS 3 FHD
-https://flussonic.defineatoz.com/BeinSports1/video.m3u8
+https://s1.itcnbd.live/somoy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_28.png",STAR SPORTS SELECT 1 FHD
-https://flussonic.defineatoz.com/starsportsselect1/video.m3u8
+https://s1.itcnbd.live/unite8-sports-1-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_16.png",STAR SPORTS SELECT 2 FHD
-https://flussonic.defineatoz.com/starsportsselect2sw/video.m3u8
+https://s1.itcnbd.live/nick/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_74.png",SONY SPORTS TEN 1 HD
-https://flussonic.defineatoz.com/SonySports1/video.m3u8
+https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_29.png",SONY SPORTS TEN 2 HD
-http://203.18.159.115/SONYSPORTS2HD/tracks-v1a1/mono.m3u8
+https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_30.png",SONY SPORTS TEN 3
 https://flussonic.defineatoz.com/SonySports3HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_72.png",SONY SPORTS TEN 4
